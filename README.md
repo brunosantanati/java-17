@@ -2,7 +2,7 @@
 
 ## Useful Links
 
-### Podcast and JEPs Links
+### Podcast link and JEPs it talks about
 
 Spotify - Inside Java - [Podcast Episode "Java 17 is Here!" Part 1](https://open.spotify.com/episode/2ZgHN5VLeYWgZdSSa09pW6)  
 Spotify - Inside Java - [Podcast Episode "Java 17 is Here!" Part 2](https://open.spotify.com/episode/4Nexa0KhkMpIz8E5i8P95w)  
@@ -23,3 +23,24 @@ Spotify - Inside Java - [Podcast Episode "Java 17 is Here!" Part 2](https://open
 [Project Amber](https://openjdk.org/projects/amber/)  
 [Monitoring Java Applications with Flight Recorder (JFR)](https://www.baeldung.com/java-flight-recorder-monitoring)  
 [The jdeprscan Command](https://docs.oracle.com/en/java/javase/17/docs/specs/man/jdeprscan.html)  
+
+## List of JEPs
+
+[Link with all JEPs](https://openjdk.org/projects/jdk/17/)  
+
+```
+306:	Restore Always-Strict Floating-Point Semantics
+356:	Enhanced Pseudo-Random Number Generators
+382:	New macOS Rendering Pipeline
+391:	macOS/AArch64 Port
+398:	Deprecate the Applet API for Removal
+403:	Strongly Encapsulate JDK Internals
+406:	Pattern Matching for switch (Preview)
+407:	Remove RMI Activation
+409:	Sealed Classes
+410:	Remove the Experimental AOT and JIT Compiler
+411:	Deprecate the Security Manager for Removal
+412:	Foreign Function & Memory API (Incubator)
+414:	Vector API (Second Incubator)
+415:	Context-Specific Deserialization Filters
+```
